@@ -1,0 +1,44 @@
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2013 Elsevier Inc.
+TI  - Streamlining test and evaluation with cloud computing
+BT  - 31st Digital Avionics Systems Conference: Projecting 100 Years of Aerospace History into the Future of Avionics, DASC 2012, October 14, 2012 - October 18, 2012
+T3  - AIAA/IEEE Digital Avionics Systems Conference - Proceedings
+A1  - Beyer, Jeff
+A1  - Elhrouz, Hamid
+A1  - Seed, Khalid El
+AD  - Clairus LLC, Syracuse, NY, United States
+PY  - 2012
+U1  - 20130415929433
+SP  - 9E31
+EP  - 9E36
+SN  - 21557195
+CY  - Williamsburg, VA, United states
+PB  - Institute of Electrical and Electronics Engineers Inc.
+N2  - Air Navigation Service Providers (ANSPs) are quickly replacing radars with advanced decision support systems like ADS-B and multilateration. These distributed, networked surveillance systems are the building blocks for NextGen and SESAR modernization projects. With the proliferation of larger, more complex systems, also comes the issue of storing and evaluating an increasing amount of data. It is important operators can quickly turn data into actionable information in order to operate their systems as efficiently as possible. On-demand cloud services are becoming readily available. Service providers and equipment operators can leverage cloud resources to efficiently test and evaluate systems without deploying additional dedicated Information Technology (IT). In this paper, we examine the pros and cons of applying cloud services to the specialized task of testing and evaluating surveillance systems. As a case study to the utility of cloud services, we demonstrate how we used Amazon's Elastic Compute Cloud (EC2) and Simple Storage Service (S3) to conduct a longer term evaluation of a wide area multilateration system in the North Sea operated by NATS. We effectively reduced the overall evaluation time from days to hours, providing almost immediate feedback after deploying cloud-based tools. Service providers and equipment operators can use this paper as a blueprint to streamline test and evaluation using cloud-based tools.  2012 IEEE.
+KW  - Web services
+KW  - Artificial intelligence
+KW  - Decision support systems
+KW  - Digital avionics
+KW  - Distributed database systems
+KW  - Information technology
+KW  - Security systems
+U2  - Air navigation service providers
+U2  - Building blockes
+U2  - Cloud services
+U2  - Equipment operators
+U2  - Modernization projects
+U2  - Multilateration
+U2  - Multilateration system
+U2  - NEXTGEN
+U2  - North Sea
+U2  - Service provider
+U2  - Storage services
+U2  - Surveillance systems
+U2  - Test and evaluation
+U2  - Wide area
+DO  - 10.1109/DASC.2012.6382937
+L2  - http://dx.doi.org/10.1109/DASC.2012.6382937
+ER  - 
+
+
+
